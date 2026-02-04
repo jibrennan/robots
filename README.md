@@ -1,2 +1,2 @@
 # robots
-These are some simple and basic projects I do while learning robotics and electronics.
+These are some basic projects I have done while learning robotics and electronics.
